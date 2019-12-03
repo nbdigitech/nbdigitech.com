@@ -1,0 +1,731 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Trash Duplicate And 301 Redirect\n"
+"POT-Creation-Date: 2018-05-23 10:27+0530\n"
+"PO-Revision-Date: 2017-09-20 11:48+0530\n"
+"Last-Translator: \n"
+"Language-Team: Solwininfotech <info@solwininfotech.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x:1,2c;_n;_ex;_nx;"
+"esc_attr_e;_n_noop:1,2;esc_attr__;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/about_us.php:8 includes/promo_notice.php:114
+msgid "Trash Duplicate and 301 Redirect"
+msgstr ""
+
+#: includes/about_us.php:12
+msgid ""
+"Find and delete duplicates posts, pages, custom post and 301 redirect to the "
+"new or old URL."
+msgstr ""
+
+#: includes/about_us.php:16
+msgid "Trash Duplicates and 301 Redirect"
+msgstr ""
+
+#: includes/about_us.php:16
+msgid "Live Documentation"
+msgstr ""
+
+#: includes/about_us.php:17
+msgid ""
+"Want more trash duplicate options and redirections support with wildcard "
+"feature and much more?"
+msgstr ""
+
+#: includes/about_us.php:17
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/about_us.php:20
+msgid "Feature Overview"
+msgstr ""
+
+#: includes/about_us.php:23
+msgid "View Duplicate Content"
+msgstr ""
+
+#: includes/about_us.php:24
+msgid ""
+"View all duplicate posts, pages, custom post type posts with full detail."
+msgstr ""
+
+#: includes/about_us.php:27
+msgid "Duplicate Search"
+msgstr ""
+
+#: includes/about_us.php:28
+msgid "Powerfull searching facility available with custom posts."
+msgstr ""
+
+#: includes/about_us.php:32
+msgid "Newest or Oldest"
+msgstr ""
+
+#: includes/about_us.php:34
+msgid "Trash duplicates posts or pages and keep the newest or oldest."
+msgstr ""
+
+#: includes/about_us.php:38
+msgid "Redirection"
+msgstr ""
+
+#: includes/about_us.php:40
+msgid "Redirection to kept post will be done automatically."
+msgstr ""
+
+#: includes/about_us.php:44
+msgid "Trash individual post"
+msgstr ""
+
+#: includes/about_us.php:46
+msgid "Individual post can also be trashed."
+msgstr ""
+
+#: includes/about_us.php:50
+msgid "Wildcard Redirection"
+msgstr ""
+
+#: includes/about_us.php:50 includes/about_us.php:62 includes/about_us.php:68
+#: includes/about_us.php:74 includes/about_us.php:80 includes/about_us.php:86
+msgid "PRO"
+msgstr ""
+
+#: includes/about_us.php:52
+msgid "Create Wildcard Redirection with patterns"
+msgstr ""
+
+#: includes/about_us.php:56
+msgid "Add/Delete redirection"
+msgstr ""
+
+#: includes/about_us.php:58
+msgid "You can add or delete redirection."
+msgstr ""
+
+#: includes/about_us.php:62
+msgid "Trash duplicates without 301 redirection"
+msgstr ""
+
+#: includes/about_us.php:64
+msgid ""
+"Remove duplicate entries without making 301 redirection call for duplicates."
+msgstr ""
+
+#: includes/about_us.php:68
+msgid "Enable/Disable redirection"
+msgstr ""
+
+#: includes/about_us.php:70
+msgid ""
+"You can enable and disable redirection anytime with the plugin settings."
+msgstr ""
+
+#: includes/about_us.php:74
+msgid "301 redirection of duplicates without Trash"
+msgstr ""
+
+#: includes/about_us.php:76
+msgid ""
+"Create 301 redirection calls for duplicates without removing those posts."
+msgstr ""
+
+#: includes/about_us.php:80 trash-duplicates.php:491
+msgid "Delete Post Meta Permanently"
+msgstr ""
+
+#: includes/about_us.php:82
+msgid "Delete post metas for duplicate entries to save disk space."
+msgstr ""
+
+#: includes/about_us.php:86
+msgid "Import/Export Option"
+msgstr ""
+
+#: includes/about_us.php:88
+msgid ""
+"Import and Export your redirection calls to intergrate that with any third "
+"party tool."
+msgstr ""
+
+#: includes/about_us.php:92
+msgid "View All Features"
+msgstr ""
+
+#: includes/about_us.php:98
+msgid "Our Other Products"
+msgstr ""
+
+#: includes/about_us.php:101
+msgid "Plugins"
+msgstr ""
+
+#: includes/about_us.php:102
+msgid "Themes"
+msgstr ""
+
+#: includes/promo_notice.php:114
+msgid "We are glad you like"
+msgstr ""
+
+#: includes/promo_notice.php:114
+msgid ""
+"plugin and have been using it since the past few days. It is time to take "
+"the next step."
+msgstr ""
+
+#: includes/promo_notice.php:116
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: includes/promo_notice.php:117
+msgid "Rate it"
+msgstr ""
+
+#: includes/promo_notice.php:118
+msgid "Like Us on Facebook"
+msgstr ""
+
+#: includes/promo_notice.php:119
+msgid "Tweet about Trash Duplicate and 301 Redirect"
+msgstr ""
+
+#: redirect_admin.php:17
+msgid "301 Redirection List"
+msgstr ""
+
+#: redirect_admin.php:35 redirect_admin.php:250 trash-duplicates-admin.php:808
+#: trash-duplicates-admin.php:1074 trash-duplicates-admin.php:1222
+msgid "Error:"
+msgstr ""
+
+#: redirect_admin.php:36
+msgid "Fail to insert new record."
+msgstr ""
+
+#: redirect_admin.php:38 redirect_admin.php:48 redirect_admin.php:91
+#: redirect_admin.php:206 redirect_admin.php:217 redirect_admin.php:244
+#: redirect_admin.php:253 trash-duplicates-admin.php:358
+#: trash-duplicates-admin.php:813 trash-duplicates-admin.php:826
+#: trash-duplicates-admin.php:873 trash-duplicates-admin.php:896
+#: trash-duplicates-admin.php:1065 trash-duplicates-admin.php:1078
+#: trash-duplicates-admin.php:1213 trash-duplicates-admin.php:1226
+msgid "Dismiss this notice."
+msgstr ""
+
+#: redirect_admin.php:45 redirect_admin.php:241 trash-duplicates-admin.php:822
+#: trash-duplicates-admin.php:869 trash-duplicates-admin.php:892
+msgid "Success:"
+msgstr ""
+
+#: redirect_admin.php:46
+msgid " Record inserted successfully."
+msgstr ""
+
+#: redirect_admin.php:89
+msgid "Saved successfully."
+msgstr ""
+
+#: redirect_admin.php:111 redirect_admin.php:155 redirect_admin.php:169
+msgid "Delete"
+msgstr ""
+
+#: redirect_admin.php:111 redirect_admin.php:154 redirect_admin.php:169
+msgid "Are you sure to remove it?"
+msgstr ""
+
+#: redirect_admin.php:113 redirect_admin.php:171 trash-duplicates-admin.php:471
+#: trash-duplicates-admin.php:716
+msgid "Items"
+msgstr ""
+
+#: redirect_admin.php:126
+msgid "Request"
+msgstr ""
+
+#: redirect_admin.php:127 redirect_admin.php:133
+msgid "Example:"
+msgstr ""
+
+#: redirect_admin.php:127
+msgid "contact"
+msgstr ""
+
+#: redirect_admin.php:132
+msgid "Destination"
+msgstr ""
+
+#: redirect_admin.php:164
+msgid "Add"
+msgstr ""
+
+#: redirect_admin.php:175
+msgid "Save Changes"
+msgstr ""
+
+#: redirect_admin.php:203
+msgid " Records removed successfully."
+msgstr ""
+
+#: redirect_admin.php:214
+msgid "Failed to remove."
+msgstr ""
+
+#: redirect_admin.php:242
+msgid " Removed successfully."
+msgstr ""
+
+#: redirect_admin.php:251
+msgid " Failed to remove."
+msgstr ""
+
+#: trash-duplicates-admin.php:18 trash-duplicates-admin.php:21
+msgid "Trash Duplicates"
+msgstr ""
+
+#: trash-duplicates-admin.php:25
+msgid "301 Redirects"
+msgstr ""
+
+#: trash-duplicates-admin.php:26
+msgid "About Trash Duplicates"
+msgstr ""
+
+#: trash-duplicates-admin.php:46
+msgid "Number of items per page:"
+msgstr ""
+
+#: trash-duplicates-admin.php:95
+msgid "Settings"
+msgstr ""
+
+#: trash-duplicates-admin.php:119
+msgid "Make sure all posts will be moved to the trash?"
+msgstr ""
+
+#: trash-duplicates-admin.php:120
+msgid "Make sure you have selected all posts below?"
+msgstr ""
+
+#: trash-duplicates-admin.php:356
+msgid "Congratulations! you have no duplicate posts found."
+msgstr ""
+
+#: trash-duplicates-admin.php:365
+msgid "Trash Duplicate"
+msgstr ""
+
+#: trash-duplicates-admin.php:380
+msgid " Total Duplicate Posts:"
+msgstr ""
+
+#: trash-duplicates-admin.php:383
+msgid " Total Individual Posts: "
+msgstr ""
+
+#: trash-duplicates-admin.php:390
+msgid "Post title"
+msgstr ""
+
+#: trash-duplicates-admin.php:391
+msgid "Search Duplicates"
+msgstr ""
+
+#: trash-duplicates-admin.php:397 trash-duplicates-admin.php:680
+msgid "Bulk Actions"
+msgstr ""
+
+#: trash-duplicates-admin.php:398
+msgid "Move to Trash"
+msgstr ""
+
+#: trash-duplicates-admin.php:399 trash-duplicates-admin.php:684
+msgid "Delete Permanently"
+msgstr ""
+
+#: trash-duplicates-admin.php:402
+msgid "Show Drafts"
+msgstr ""
+
+#: trash-duplicates-admin.php:404 trash-duplicates-admin.php:440
+#: trash-duplicates-admin.php:541 trash-duplicates-admin.php:687
+msgid "Apply"
+msgstr ""
+
+#: trash-duplicates-admin.php:406
+msgid "All post types"
+msgstr ""
+
+#: trash-duplicates-admin.php:416
+msgid "Filter Posts"
+msgstr ""
+
+#: trash-duplicates-admin.php:422
+msgid "Trash:"
+msgstr ""
+
+#: trash-duplicates-admin.php:425
+msgid "All"
+msgstr ""
+
+#: trash-duplicates-admin.php:429
+msgid "And Keep:"
+msgstr ""
+
+#: trash-duplicates-admin.php:432 trash-duplicates-admin.php:529
+msgid "Oldest"
+msgstr ""
+
+#: trash-duplicates-admin.php:436 trash-duplicates-admin.php:536
+msgid "Newest"
+msgstr ""
+
+#: trash-duplicates-admin.php:450 trash-duplicates-admin.php:695
+msgid "Go to the first page"
+msgstr ""
+
+#: trash-duplicates-admin.php:451 trash-duplicates-admin.php:696
+msgid "Go to the previous page"
+msgstr ""
+
+#: trash-duplicates-admin.php:454
+msgid "Current page"
+msgstr ""
+
+#: trash-duplicates-admin.php:455 trash-duplicates-admin.php:700
+msgid "of"
+msgstr ""
+
+#: trash-duplicates-admin.php:464 trash-duplicates-admin.php:709
+msgid "Go to the last page"
+msgstr ""
+
+#: trash-duplicates-admin.php:483 trash-duplicates-admin.php:665
+msgid "Title"
+msgstr ""
+
+#: trash-duplicates-admin.php:484 trash-duplicates-admin.php:666
+msgid "ID"
+msgstr ""
+
+#: trash-duplicates-admin.php:485 trash-duplicates-admin.php:667
+msgid "Author"
+msgstr ""
+
+#: trash-duplicates-admin.php:486 trash-duplicates-admin.php:668
+msgid "Categories"
+msgstr ""
+
+#: trash-duplicates-admin.php:488 trash-duplicates-admin.php:670
+msgid "Date"
+msgstr ""
+
+#: trash-duplicates-admin.php:526 trash-duplicates-admin.php:533
+msgid "Keep:"
+msgstr ""
+
+#: trash-duplicates-admin.php:566
+msgid "Draft"
+msgstr ""
+
+#: trash-duplicates-admin.php:572
+msgid "View"
+msgstr ""
+
+#: trash-duplicates-admin.php:577
+msgid "Trash"
+msgstr ""
+
+#: trash-duplicates-admin.php:594 trash-duplicates-admin.php:608
+msgid "Uncategorized"
+msgstr ""
+
+#: trash-duplicates-admin.php:627
+msgid "Last Modified"
+msgstr ""
+
+#: trash-duplicates-admin.php:630
+msgid "Published"
+msgstr ""
+
+#: trash-duplicates-admin.php:658
+msgid "Nothing Found."
+msgstr ""
+
+#: trash-duplicates-admin.php:682
+msgid "Move To Trash"
+msgstr ""
+
+#: trash-duplicates-admin.php:739
+msgid "Hi there!"
+msgstr ""
+
+#: trash-duplicates-admin.php:740
+msgid ""
+"Don't ever miss an opportunity to opt in for Email Notifications / "
+"Announcements about exciting New Features and Update Releases."
+msgstr ""
+
+#: trash-duplicates-admin.php:741
+msgid ""
+"Contribute in helping us making our plugin compatible with most plugins and "
+"themes by allowing to share non-sensitive information about your website."
+msgstr ""
+
+#: trash-duplicates-admin.php:742
+msgid "Email Address for Notifications"
+msgstr ""
+
+#: trash-duplicates-admin.php:744
+msgid "If you're not ready to Opt-In, that's ok too!"
+msgstr ""
+
+#: trash-duplicates-admin.php:745
+msgid "Trash Duplicates and 301 redirects will still work fine."
+msgstr ""
+
+#: trash-duplicates-admin.php:746
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: trash-duplicates-admin.php:752
+msgid "User Details"
+msgstr ""
+
+#: trash-duplicates-admin.php:753
+msgid "Name and Email Address"
+msgstr ""
+
+#: trash-duplicates-admin.php:759
+msgid "Current Plugin Status"
+msgstr ""
+
+#: trash-duplicates-admin.php:760
+msgid "Activation, Deactivation and Uninstall"
+msgstr ""
+
+#: trash-duplicates-admin.php:768
+msgid "Notifications"
+msgstr ""
+
+#: trash-duplicates-admin.php:769
+msgid "Updates & Announcements"
+msgstr ""
+
+#: trash-duplicates-admin.php:775
+msgid "Website Overview"
+msgstr ""
+
+#: trash-duplicates-admin.php:776
+msgid "Site URL, WP Version, PHP Info, Plugins & Themes Info"
+msgstr ""
+
+#: trash-duplicates-admin.php:783 trash-duplicates.php:277
+msgid ""
+"By clicking this button, you agree with the storage and handling of your "
+"data as mentioned above by this website. (GDPR Compliance)"
+msgstr ""
+
+#: trash-duplicates-admin.php:786
+msgid "Skip &amp; Continue"
+msgstr ""
+
+#: trash-duplicates-admin.php:787
+msgid "Opt-In &amp; Continue"
+msgstr ""
+
+#: trash-duplicates-admin.php:810
+msgid "While moving following post to the trash."
+msgstr ""
+
+#: trash-duplicates-admin.php:823 trash-duplicates-admin.php:870
+msgid " Following post moved to the trash."
+msgstr ""
+
+#: trash-duplicates-admin.php:893
+msgid " Following posts deleted."
+msgstr ""
+
+#: trash-duplicates-admin.php:1060 trash-duplicates-admin.php:1208
+msgid "Following duplicate posts successfully moved to the trash"
+msgstr ""
+
+#: trash-duplicates-admin.php:1075 trash-duplicates-admin.php:1223
+msgid " Can't move to the trash."
+msgstr ""
+
+#: trash-duplicates.php:106 trash-duplicates.php:117
+msgid "News From Solwin Infotech"
+msgstr ""
+
+#: trash-duplicates.php:128
+msgid "Latest Product"
+msgstr ""
+
+#: trash-duplicates.php:132
+msgid "Something went wrong"
+msgstr ""
+
+#: trash-duplicates.php:194
+msgid "If you like "
+msgstr ""
+
+#: trash-duplicates.php:195
+msgid "Trash Duplicate And 301 Redirection Plugin"
+msgstr ""
+
+#: trash-duplicates.php:196
+msgid "please leave us a"
+msgstr ""
+
+#: trash-duplicates.php:198
+msgid "rating. A huge thank you from Solwin Infotech in advance!"
+msgstr ""
+
+#: trash-duplicates.php:235
+msgid ""
+"If you have a moment, please let us know why you are deactivating. We would "
+"like to help you in fixing the issue."
+msgstr ""
+
+#: trash-duplicates.php:241
+msgid "I am going to upgrade to PRO version"
+msgstr ""
+
+#: trash-duplicates.php:246
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: trash-duplicates.php:251
+msgid "The plugin was not working"
+msgstr ""
+
+#: trash-duplicates.php:256
+msgid "Found other better plugin than this plugin"
+msgstr ""
+
+#: trash-duplicates.php:261
+msgid "The plugin broke my site completely"
+msgstr ""
+
+#: trash-duplicates.php:266
+msgid "No any reason"
+msgstr ""
+
+#: trash-duplicates.php:271
+msgid "Other"
+msgstr ""
+
+#: trash-duplicates.php:279
+msgid "Submit &amp; Deactivate"
+msgstr ""
+
+#: trash-duplicates.php:280
+msgid "Cancel"
+msgstr ""
+
+#: trash-duplicates.php:281
+msgid "Deactivate Trash Duplicates and 301 redirects"
+msgstr ""
+
+#: trash-duplicates.php:281
+msgid "Skip &amp; Deactivate"
+msgstr ""
+
+#: trash-duplicates.php:284
+msgid "Would you like to give us a chance to help you?"
+msgstr ""
+
+#: trash-duplicates.php:286
+msgid "Create a support ticket"
+msgstr ""
+
+#: trash-duplicates.php:463
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: trash-duplicates.php:465
+msgid "Enjoyed this plugin?"
+msgstr ""
+
+#: trash-duplicates.php:466
+msgid " You can help by"
+msgstr ""
+
+#: trash-duplicates.php:468
+msgid " rating this plugin on wordpress.org"
+msgstr ""
+
+#: trash-duplicates.php:472
+msgid "Downloads:"
+msgstr ""
+
+#: trash-duplicates.php:483
+msgid "Trash Duplicate And 301 Redirection PRO"
+msgstr ""
+
+#: trash-duplicates.php:487
+msgid "Enable/disable redirection"
+msgstr ""
+
+#: trash-duplicates.php:488
+msgid "Trash without 301 redirection"
+msgstr ""
+
+#: trash-duplicates.php:489
+msgid "301 redirection without Trash"
+msgstr ""
+
+#: trash-duplicates.php:490
+msgid "Wildcard redirection feature"
+msgstr ""
+
+#: trash-duplicates.php:492
+msgid "Import/Export Redirections"
+msgstr ""
+
+#: trash-duplicates.php:494
+msgid "Now only at"
+msgstr ""
+
+#: trash-duplicates.php:498
+msgid "Buy Now on Codecanyon"
+msgstr ""
+
+#: trash-duplicates.php:504
+msgid "Need Support?"
+msgstr ""
+
+#: trash-duplicates.php:506
+msgid "Check out the"
+msgstr ""
+
+#: trash-duplicates.php:507
+msgid "FAQs"
+msgstr ""
+
+#: trash-duplicates.php:508
+msgid "and"
+msgstr ""
+
+#: trash-duplicates.php:509
+msgid "Support Forums"
+msgstr ""
+
+#: trash-duplicates.php:521
+msgid "Documentation"
+msgstr ""
+
+#: trash-duplicates.php:522
+msgid "Upgrade"
+msgstr ""

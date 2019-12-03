@@ -1,0 +1,35 @@
+.brands{color:#313437;background-color:#fff;}
+.brands a{display:block;text-align:center;padding:40px 0;background:rgb(255,255,255);}
+@media (max-width:767px){.brands a{padding:30px 0;}
+}
+.brands a img{display:inline-block;vertical-align:middle;}
+p.lead.text-center{color:black;}
+p.lead{color:rgb(58,57,57);}
+div.jumbotron{background:black;}
+button.btn.btn-default.btn-lg.cta{color:white;background:rgb(18,17,23);border-color:rgb(252,251,251);font-size:24px;}
+p.lead.text-center.p1{color:rgb(123,121,121);}
+div.container.formcon{background:black;width:100%;padding:50px 0;}
+form.lpform{max-width:500px;margin:0 auto 25px;}
+h1.text-center.headform{color:white;}
+a.btn.btn-default.btn-lg.cta{color:white;background:rgb(234,57,71);border-color:rgb(3,3,3);font-size:24px;}
+button.btn.btn-default.cta{color:white;background:rgb(18,17,23);border-color:rgb(252,251,251);font-size:20px;margin-left:20px;padding:10px 50px;}
+div.container.footer{width:100%;}
+p.add1{font-size:18px;font-weight:bold;margin-top:0;margin-bottom:20px;color:inherit;padding-left:20px;}
+i.glyphicon.glyphicon-star.add{}
+.fa-li.text-primary{font-size:20px;color:#010101;float:left;}
+li{}
+a.btn.btn-default.btn-lg.cta:hover{color:rgb(244,243,243);background:rgb(6,6,6);font-size:24px;}
+a.btn.btn-primary.cta2:hover{background:rgb(6,6,6);color:rgb(249,248,248);}
+button.btn.btn-default.cta:hover{color:rgb(10,10,10);background:white;}
+h2.text-center.testi{color:white;}
+button.btn.btn-default.formbtn{color:white;background:rgb(234,57,71);border-color:rgb(252,251,251);font-size:20px;margin-left:33%;padding-right:40px;padding-left:40px;}
+button.btn.btn-default.formbtn:hover{background:rgb(7,7,7);color:rgb(249,249,249);border-color:rgb(252,251,251);}
+ul.list-unstyled.fa-ul{margin-left:100px;}
+li.li1{font-size:20px;}
+li.li2{font-size:20px;}
+li.li3{font-size:20px;}
+h2.text-center.headh2{color:white;}
+p.lead.text-center.quote{font-size:25px;color:rgb(234,57,71);font-weight:bold;}
+img.logo{height:40px;}
+div.benefits.features-clean{background:rgb(238,236,236);}
+a.btn.btn-primary.cta2{background:rgb(234,57,71);}

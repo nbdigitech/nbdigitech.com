@@ -1,0 +1,35 @@
+User-agent:*
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /linkout/
+Disallow: /recommended/
+Disallow: /trackback/
+Disallow: /index.php/
+Disallow: /xmlrpc.php/
+Disallow: /archives/
+Disallow: /*?*
+Disallow: *?replytocom
+Disallow: /wp-*
+Disallow: /auther
+Disallow: /comments/feed/
+
+
+User-agent: NinjaBot
+Allow: /
+
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+Allow: /*?amp
+sitemap: https://www.nbdigitech.com/sitemap.xml
+sitemap: https://www.nbdigitech.com/sitemap-image.xml
+sitemap: https://www.nbdigitech.com/sitemap-video.xml

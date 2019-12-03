@@ -1,0 +1,134 @@
+#get_appointment{
+padding:70px;
+}
+
+#select_stream{
+	width: 30%;
+}
+
+#select_country{
+	width: 30%;
+	
+}
+
+div.azen.azen1.azen2.azen3 div.azen-thumbnail-image.c70032f0 {
+background-image: url('{{url('/')}}/public/frontend/icons/hospital.svg');
+}
+
+
+
+div.azen.azen1.azen2.azen3 .azen-univer-subscribe{
+background: white;
+}
+
+#get_appointment #sub{
+background: #665C7C;
+color:white;
+width: 71%;
+border:1px solid #665C7C;
+text-align: center;
+}
+
+div.azen.azen1.azen2.azen3 div.azen-univer-middle-home.c63c96e2{
+height: 500px;
+}
+
+#begin_be p{
+	position: absolute; margin-left: 300px;
+}
+
+div.azen.azen1.azen2.azen3 div.azen-univer-middle-home.c63c96e2{
+background-image: url('https://s3.ap-south-1.amazonaws.com/nbpaperplanes/images/{{$banner->Image}}');
+}
+
+
+@media(max-width: 768px){
+#get_appointment{
+padding: 10px;
+}
+
+#begin_be p{
+	position: absolute; margin-left: 40px;
+	margin-top: -40px;
+}
+
+#abut_sec{
+	margin-top: -100px;
+}
+
+#service_sec{
+	margin-top: -40px;
+}
+
+#about_uss{
+	margin-top: -80px;
+}
+
+#begin_be{
+font-size: 30px;
+}
+
+#select_stream{
+	width: 80%;
+	margin-top: 10px;
+}
+
+#select_country{
+	width: 80%;
+	margin-left: 0px;
+	margin-top: 10px;
+}
+
+
+#get_appointment #sub{
+background: #665C7C;
+color:white;
+width: 53%;
+border:1px solid #665C7C;
+text-align: center;
+}
+
+div.azen.azen1.azen2.azen3 div.azen-univer-middle-home.c63c96e2{
+height: 400px;
+}
+
+
+#get_appointment #sub{
+
+}
+
+div.azen.azen1.azen2.azen3 div.azen-thumbnail-image.c70032f0 {
+width: 100px;
+margin-top: -90px;
+float: left;
+margin-bottom: -50px;
+}
+
+div.azen.azen1.azen2.azen3 div.azen-thumbnail-image.c479d677{
+width: 100px;
+margin-top: -80px;
+margin-bottom: -50px;
+}
+
+
+div.azen.azen1.azen2.azen3 div.azen-thumbnail-image.cc75385f{
+width: 100px;
+margin-top: -80px;
+margin-bottom: -50px;
+}
+
+
+}
+
+
+
+
+
+@media(max-width: 400px){
+
+div.azen.azen1.azen2.azen3 div.azen-univer-middle-home.c63c96e2{
+height: 300px;
+}
+
+
+}

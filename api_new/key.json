@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "custom-rigging-723",
+  "private_key_id": "0af9bc6e90606bdb96a061166b10087318b4432a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCXlFRWMwWyBE/R\ngTI5rdbHV9Ffjg+xzY4XGDYdZsJKPheqzR2jGYPVNB3HDYhiocbOuHrVPrXILnbg\nsaRAUZI2pSAyQ5Jft+zkYdXHY2RMfoj3x5gd9UR7IsxLTiNJ+tevX4GcTJBJ7Ayp\n9rkW7A3vArbhCxzpPLRdjhHSONc5qTr+5yD8RWZJQsqM43a9KcYVD6opra0+BI7B\nHknjHynIpSBbhW5ah/W9LHwX/j+2UulyB6VrWilRs13L2SNdd52pBHOSfUm027sh\ntnVf1Hp7jgs27x0gQoDABmcAXVsm8YaC8pLZ63nKJueZexe02GeMzFjp6Z+GTcf4\nWJWyOumjAgMBAAECggEAHfAd+Ch7p31Shn6N/PZoxVaC8+yLDQMcXVNa3NO+7Ar3\ngbShdeVENIfmmboChfiN26Z0HEoWfUMwF5D+b/Wsez6B7WuLLXyWPUVVg9wNo04a\nn1W8pa4bqHZnAzibn7D7iJfEcaptlSwaFDe2tuBIoDxZAnm/bBGhThkRTAQN/kUw\njgVE1c+GJ/AHO18mHoQ+atwguQIUxEQB+wni4nwsKY2WI21ClyZVkXCsCdZ5aVqS\nxvYTub+CIIGkOfXfwRJA4rT4z+6K4USN5/9rnicPo5gpMfJf8I+B27BDZYG5AdGZ\nJhqnzSDxpnARDyOk309JA6tOWHzk6m0bz47w2luvAQKBgQDN3EcgSqnMnGhZ4j18\nPnukactKWp8s86p3yc+TshB86/Kd797ilxvXHaQ0I9H8X9gAdRdMbY7o5oWrKpQH\nHdOlJaHoaQXTKBhoT1WCvcVm8+iMRwbWuyfunSVC7Hiiu04tdniMYB6SB9rS7QAE\n6PYvXwwJQ+9HuBMyAQg2u6XfmQKBgQC8f4sPqe1SVCC0ysyOAIg4J2tiPR9RA+2+\nYbaLi0LqI2MWz5QSy8oqz4IAjAOxx17SzpBBQwfF9MFhtVKGb2IczkPwAmYpV5y7\n8rVdo0WMMwCxrx/uXdYsBWiYad0nvMDgVS7BBX5zy8Gl73kYbxWicbNMF6yM0p51\nH0oItSXImwKBgQChCiUJ+d6DFgf76KQ4wZhvseM6M1I6FBPSyaj83VtQnjOZocA2\negdpbOK7dxoZ19Bd6ztiqoIVZ+BBWnmaZ5bdpmbWLPJFkSQm1YkLUfFO7JeKxTVw\nXdCLNZukkuB8TRKHNhpvlfHUQxjH0GcncCbGQBBmXyKcdD9v6qbGSl0kYQKBgF+U\nUKAFqve2/sqNloFelbPbkSDEG3AKDPAfPd+uIqT0gpcbdFq/iOiCRcofNPRdQqCj\n6xOceIGQ5Mm1ln3iVp6CnIJDxSerbCcFH5+2XVqEthJi2U8Vt7akm2/FJkWy+R4H\nM2jeb0sqAywvrHiOQysWejLYQj85wO1kiza1G86HAoGBAJJj9E66l/OwuLshLgFq\nuaz2EkAkXlEmyA4WVYbvTLX33Au/tIcag1mTrovfTJcX67TUTuPOdEZKCml5hEQz\n7DBF5PMx0hQn5Kgis5mVmG4aCHVx/Bi/kcoCck7EXWFl9ArG71R6FqF2suYkBy9v\nhH1rmKmPO0jl5+69OFA4pfuY\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-vision@custom-rigging-723.iam.gserviceaccount.com",
+  "client_id": "117013779027020008123",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-vision%40custom-rigging-723.iam.gserviceaccount.com"
+}
